@@ -12,6 +12,17 @@
 
 <br />
 
+
+---
+
+### Linguages e tecnologias que eu já trabalhei
+
+![JavaScript](https://img.shields.io/badge/-Javascript-252525?style=for-the-badge&logo=javascript)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.js-252525?style=for-the-badge&logo=vue.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-252525?style=for-the-badge&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-252525?style=for-the-badge&logo=linux)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
 <a></a>
 
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
