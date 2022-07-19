@@ -6,9 +6,9 @@
 <br />
 
 🎓 &nbsp; Estudante de Sistemas de Informação na Universidade Federal de Lavras(UFLA)\
-💻 &nbsp; Desenvolvedor front-end e back-end
-⚙ &nbsp; Atualmente atuo no Grupo Youx.
-🌞 &nbsp; No meu tempo livre gosto de assistir filmes, jogar, jogar futebol e sair com amigos/familia.
+💻 &nbsp; Desenvolvedor front-end e back-end\
+⚙ &nbsp; Atualmente atuo no Grupo Youx.\
+🌞 &nbsp; No meu tempo livre gosto de assistir filmes, jogar, jogar futebol e sair com amigos/familia.\
 
 <br />
 
