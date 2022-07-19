@@ -23,6 +23,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-252525?style=for-the-badge&logo=linux)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
+---
+
 <a></a>
 
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
@@ -37,6 +39,8 @@
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+---
+
 #### 🔭 I’m currently working with ...
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -48,6 +52,7 @@
  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
 </a>
 
+---
 
 #### 🌱 I’m currently learning ...
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
@@ -56,6 +61,8 @@
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
 </a>
+
+---
 
 #### 💬 Ask me about 
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
