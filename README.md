@@ -80,9 +80,9 @@
 #### :hash: Causes:
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira3&layout=compact&theme=dark" />
+  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira3&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielvieira3&theme=dark" />
+  <img align="left" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielvieira3&theme=dark" />
 </a>
