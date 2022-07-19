@@ -3,7 +3,7 @@
 <a></a>
 
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
-  <img src="https://raw.githubusercontent.com/lucasanthony/lucasanthony/master/my-octocat-1596995015242-removebg-preview.png" width="270" height="350" align="right">
+  <img src="https://github.com/gabrielvieira3/gabrielvieira3/blob/main/octocat-1658253635059.png" width="270" height="350" align="right">
 </a>
 
 <a href="https://www.instagram.com/fernandes.gbiel/" align="center">
