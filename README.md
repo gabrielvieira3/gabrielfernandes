@@ -74,3 +74,15 @@
 <a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
+
+---
+
+#### :hash: Causes:
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira3&layout=compact&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielvieira3&theme=dark" />
+</a>
