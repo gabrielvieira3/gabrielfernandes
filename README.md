@@ -26,10 +26,6 @@
 
 <a></a>
 
-<a href="https://www.linkedin.com/in/gabriel-fernandes-silva-vieira-033184193/" align="right">
-  <img src="https://github.com/gabrielvieira3/gabrielvieira3/blob/main/octocat-1658253635059.png" width="270" height="350" align="right">
-</a>
-
 <a href="https://www.instagram.com/fernandes.gbiel/" align="center">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
