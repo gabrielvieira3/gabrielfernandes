@@ -5,7 +5,7 @@
 
 <br />
 
-🎓 &nbsp; Estudante de Sistemas de Informação na Universidade Federal de Lavras(UFLA)\
+🎓 &nbsp; Bacharelado em Sistemas de Informação na Universidade Federal de Lavras(UFLA)\
 💻 &nbsp; Desenvolvedor front-end e back-end\
 🌞 &nbsp; No meu tempo livre gosto de assistir filmes, jogar, jogar futebol e sair com amigos/familia.
 
